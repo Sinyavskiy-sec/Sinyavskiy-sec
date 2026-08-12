@@ -33,6 +33,7 @@ I document every lab I complete as a full writeup — recon, exploitation, impac
 - **[security-writeups](https://github.com/Sinyavskiy-sec/security-writeups)** — structured writeups for web app pentest labs (SQLi, blind SQLi, and more to come)
 
 ## 📫 Contact
+https://t.me/SinyavskiySEC
 
 Open to junior pentest / bug bounty opportunities — feel free to reach out.
 
